@@ -1,0 +1,23 @@
+{
+    "title": "Title",
+    "title_cannot_be_empty": "Title cannot be empty",
+    "enter_title": "Enter title",
+    "description": "Description",
+    "description_cannot_be_empty": "Description cannot be empty",
+    "enter_description": "Enter description",
+    "create_object": "Create object",
+    "update_object": "Update object",
+    "save": "Save",
+    "cache_failure_message": "Ups, chache failed. Please try again!",
+    "general_failure_message": "Ups, something gone wrong. Please try again!",
+    "server_failure_message": "Ups, check interner connection. Please try again!",
+    "try_again": "Try again",
+    "turn_on_geolocation":"Turn on geolocation and try again",
+    "allow_permission":"Without permission to geolocation, it will not be possible to receive weather data. Please, allow geolocation permission",
+    "25_temp_message":"It's 🍦 time",
+    "20_temp_message":"Time for shorts and 👕",
+    "10_temp_message":"You'll need 🧣 and 🧤",
+    "else_temp_message":"Bring a 🧥 just in case",
+    "tap_plus":"Tap '+' to add object",
+    "refresh_data":"Refresh data"
+}
